@@ -3,11 +3,11 @@
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=brijmohan17&label=Profile%20views&color=0e75b6&style=flat" alt="brijmohan17" /> </p>-->
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brijmohan17" alt="brijmohan17" /></a> </p> -->
-<div align="center"">
+<!--<div align="center"">
 <p style="flex: 1; align="center"">
   <img src="https://github.com/brijmohan17/brijmohan17/blob/main/programmer.gif" alt="brijmohan17" width="600" height="300"/>
 </p>
-</div>
+</div>-->
 <h3 align="center">A passionate Fullstack developer from India</h3>
 <p style="flex: 1;">
 
